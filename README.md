@@ -10,6 +10,7 @@ https://www.sitepoint.com/creating-and-handling-forms-in-node-js/
 
 1. Clone repo
 2. Run `npm install`
+3. Add mongoDB url to server.js
 3. Run `npm start`
 4. Visit http://localhost:3000/
 
